@@ -1,0 +1,22 @@
+{
+  "_fv": 13,
+  "_type": "potion",
+  "definition": {
+    "name": "Kritz Potion",
+    "effectName": "Kritz Potion",
+    "icon": "fix.png",
+    "color": {
+      "value": -58622,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": true,
+    "registerPotionType": true,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "KritzPotionPotionStartedapplied"
+    }
+  }
+}

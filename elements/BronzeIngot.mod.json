@@ -3,12 +3,12 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "clorium",
+    "texture": "bronze_ingot",
     "customModelName": "Normal",
-    "name": "Colorium",
-    "rarity": "EPIC",
+    "name": "Bronze Ingot",
+    "rarity": "UNCOMMON",
     "creativeTab": {
-      "value": "CUSTOM:Colorium"
+      "value": "CUSTOM:BronzeTools"
     },
     "stackSize": 64,
     "enchantability": 0,
@@ -24,7 +24,7 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInfo": [],
-    "hasGlow": true,
+    "hasGlow": false,
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
     "inventoryStackSize": 64

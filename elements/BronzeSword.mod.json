@@ -3,25 +3,25 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "greencopperore_pickaxe",
+    "texture": "bronze_sword",
     "customModelName": "Normal",
-    "name": "GreenCopperOre Pickaxe",
+    "name": "Bronze Sword",
     "specialInfo": [],
     "creativeTab": {
-      "value": "CUSTOM:GreenCopperTools"
+      "value": "CUSTOM:BronzeTools"
     },
-    "toolType": "Pickaxe",
-    "harvestLevel": 4,
-    "efficiency": 9.0,
+    "toolType": "Sword",
+    "harvestLevel": 5,
+    "efficiency": 10.0,
     "attackSpeed": 1.0,
-    "enchantability": 29,
-    "damageVsEntity": 4.0,
-    "usageCount": 1706,
+    "enchantability": 34,
+    "damageVsEntity": 14.0,
+    "usageCount": 852,
     "blocksAffected": [],
     "hasGlow": false,
     "repairItems": [
       {
-        "value": "CUSTOM:GreenCopperOreIngot"
+        "value": "CUSTOM:BronzeIngot"
       }
     ],
     "stayInGridWhenCrafting": false,

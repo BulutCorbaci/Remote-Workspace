@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "more_ores_and_tools:lritz_wood_slab"
+    },
+    "half=top,variant=default": {
+      "model": "more_ores_and_tools:lritz_wood_slab_top"
+    }
+  }
+}

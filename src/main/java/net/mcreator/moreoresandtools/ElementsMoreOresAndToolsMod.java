@@ -54,6 +54,8 @@ public class ElementsMoreOresAndToolsMod implements IFuelHandler, IWorldGenerato
 	public final List<Supplier<Potion>> potions = new ArrayList<>();
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 	public ElementsMoreOresAndToolsMod() {
+		sounds.put(new ResourceLocation("more_ores_and_tools", "ambient"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("more_ores_and_tools", "ambient")));
 	}
 
 	public void preInit(FMLPreInitializationEvent event) {

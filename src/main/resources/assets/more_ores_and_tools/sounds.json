@@ -1,1 +1,12 @@
-{}
+{
+  "ambient": {
+    "category": "record",
+    "subtitle": "subtitles.ambient",
+    "sounds": [
+      {
+        "name": "more_ores_and_tools:spooky_ambience",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "group": "more_ores_and_tools",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "type": "forge:ore_dict",
+      "ore": "forgelritzwood_log"
+    }
+  ],
+  "result": {
+    "item": "more_ores_and_tools:lritz_wood_planks",
+    "count": 4
+  }
+}
