@@ -861,6 +861,210 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cobalt_tools"
+    },
+    {
+      "name": "ColoriumGem",
+      "type": "item",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colorium_gem"
+    },
+    {
+      "name": "ColoriumGemOre",
+      "type": "block",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colorium_gem_ore"
+    },
+    {
+      "name": "ColoriumGemBlock",
+      "type": "block",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colorium_gem_block"
+    },
+    {
+      "name": "ColoriumGemOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colorium_gem_ore_block_recipe"
+    },
+    {
+      "name": "ColoriumGemBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colorium_gem_block_ore_recipe"
+    },
+    {
+      "name": "ColoriumGemOreSmelting",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colorium_gem_ore_smelting"
+    },
+    {
+      "name": "ColoriumGemPickaxe",
+      "type": "tool",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colorium_gem_pickaxe"
+    },
+    {
+      "name": "ColoriumGemAxe",
+      "type": "tool",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colorium_gem_axe"
+    },
+    {
+      "name": "ColoriumGemSword",
+      "type": "tool",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colorium_gem_sword"
+    },
+    {
+      "name": "ColoriumGemShovel",
+      "type": "tool",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colorium_gem_shovel"
+    },
+    {
+      "name": "ColoriumGemHoe",
+      "type": "tool",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colorium_gem_hoe"
+    },
+    {
+      "name": "ColoriumGemPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colorium_gem_pickaxe_recipe"
+    },
+    {
+      "name": "ColoriumGemAxeRecipe",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colorium_gem_axe_recipe"
+    },
+    {
+      "name": "ColoriumGemSwordRecipe",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colorium_gem_sword_recipe"
+    },
+    {
+      "name": "ColoriumGemShovelRecipe",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colorium_gem_shovel_recipe"
+    },
+    {
+      "name": "ColoriumGemHoeRecipe",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colorium_gem_hoe_recipe"
+    },
+    {
+      "name": "ColoriumGemArmor",
+      "type": "armor",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colorium_gem_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "ColoriumGemArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colorium_gem_armor_helmet_recipe"
+    },
+    {
+      "name": "ColoriumGemArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colorium_gem_armor_body_recipe"
+    },
+    {
+      "name": "ColoriumGemArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colorium_gem_armor_leggings_recipe"
+    },
+    {
+      "name": "ColoriumGemArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colorium_gem_armor_boots_recipe"
+    },
+    {
+      "name": "Colorium",
+      "type": "tab",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colorium"
     }
   ],
   "variable_elements": [],
@@ -868,6 +1072,7 @@
   "language_map": {
     "en_us": {
       "item.cobalt_armorbody.name": "Cobalt Chestplate",
+      "tile.colorium_gem_ore.name": "Colorium Ore",
       "itemGroup.tabothers": "Others",
       "item.quartz_gem_shovel.name": "Quartz Gem Shovel",
       "item.green_copper_ore_pickaxe.name": "GreenCopperOre Pickaxe",
@@ -880,29 +1085,38 @@
       "tile.quartz_gem_ore.name": "Quartz Gem Ore",
       "item.green_copper_ore_hoe.name": "Green Copper Hoe",
       "item.green_copper_ore_axe.name": "Green Copper Axe",
+      "item.colorium_gem_armorhelmet.name": "Colorium Helmet",
       "item.cobalt_armorhelmet.name": "Cobalt Helmet",
       "item.quartz_gem_sword.name": "Quartz Gem Sword",
       "item.ruby_axe.name": "Ruby Axe",
       "item.quartz_gem_hoe.name": "Quartz Gem Hoe",
+      "itemGroup.tabcolorium": "Colorium",
       "tile.ruby_ore.name": "Ruby Ore",
       "item.green_copper_ore_ingot.name": "Green Copper Ingot",
       "item.cobalt_sword.name": "Cobalt Sword",
+      "item.colorium_gem_armorboots.name": "Colorium Boots",
       "item.green_copper_ore_armorboots.name": "Green Copper Boots",
       "item.ruby.name": "Ruby",
+      "item.colorium_gem_shovel.name": "Colorium Shovel",
       "itemGroup.tabcobalt_tools": "Cobalt Tools",
       "item.ruby_armorbody.name": "Ruby Chestplate",
+      "item.colorium_gem_sword.name": "Colorium Sword",
       "item.quartz_gem_armorbody.name": "Quartz Gem Chestplate",
       "item.quartz_gem_armorlegs.name": "Quartz Gem Leggings",
       "item.ruby_armorlegs.name": "Ruby Leggings",
       "item.quartz_gem_pickaxe.name": "Quartz Gem Pickaxe",
       "item.quartz_gem.name": "Quartz Gem",
       "itemGroup.tabruby_tools": "Ruby Tools",
+      "item.colorium_gem_armorlegs.name": "Colorium Leggings",
       "item.ruby_armorboots.name": "Ruby Boots",
       "item.ruby_hoe.name": "Ruby Hoe",
+      "item.colorium_gem.name": "Colorium",
       "item.cobalt_armorboots.name": "Cobalt Boots",
       "item.ruby_pickaxe.name": "Ruby Pickaxe",
       "item.ruby_shovel.name": "Ruby Shovel",
       "item.green_copper_ore_armorlegs.name": "Green Copper Leggings",
+      "item.colorium_gem_armorbody.name": "Colorium Chestplate",
+      "item.colorium_gem_axe.name": "Colorium Axe",
       "item.quartz_gem_armorboots.name": "Quartz Gem Boots",
       "tile.glowing_oil_block_smelted.name": "Glowing Oil Block",
       "item.green_copper_ore_shovel.name": "Green Copper Shovel",
@@ -919,9 +1133,12 @@
       "itemGroup.tabquartz_gem_items": "Quartz Gem Items",
       "tile.cobalt_ore.name": "Cobalt Ore",
       "tile.quartz_gem_block.name": "Block of Quartz Gem",
+      "item.colorium_gem_pickaxe.name": "Colorium Pickaxe",
       "tile.glowing_oil_block.name": "Glowing Oil Block Ore",
       "tile.green_copper_ore_block.name": "Block of Green Copper",
-      "item.green_copper_ore_armorhelmet.name": "Green Copper Helmet"
+      "item.green_copper_ore_armorhelmet.name": "Green Copper Helmet",
+      "tile.colorium_gem_block.name": "Block of Colorium",
+      "item.colorium_gem_hoe.name": "Colorium Hoe"
     }
   },
   "workspaceSettings": {
