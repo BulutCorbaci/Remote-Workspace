@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "more_ores_and_tools:blocks/quartz_gem_ore_block",
+    "particle": "more_ores_and_tools:blocks/quartz_gem_ore_block"
+  }
+}

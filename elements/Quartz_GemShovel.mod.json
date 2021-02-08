@@ -1,0 +1,30 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "quartz_gem_shovel",
+    "customModelName": "Normal",
+    "name": "Quartz Gem Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:QuartzGemItems"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 3,
+    "efficiency": 7.0,
+    "attackSpeed": 1.0,
+    "enchantability": 18,
+    "damageVsEntity": 3.0,
+    "usageCount": 1361,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Quartz_Gem"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

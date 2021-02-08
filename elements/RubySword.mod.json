@@ -1,0 +1,30 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ruby_sword",
+    "customModelName": "Normal",
+    "name": "Ruby Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:RubyTools"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 8,
+    "efficiency": 13.0,
+    "attackSpeed": 1.0,
+    "enchantability": 53,
+    "damageVsEntity": 23.0,
+    "usageCount": 1620,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Ruby"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

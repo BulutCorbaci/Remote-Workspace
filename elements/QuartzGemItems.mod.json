@@ -1,0 +1,11 @@
+{
+  "_fv": 13,
+  "_type": "tab",
+  "definition": {
+    "name": "Quartz Gem Items",
+    "icon": {
+      "value": "CUSTOM:Quartz_GemSword"
+    },
+    "showSearch": false
+  }
+}

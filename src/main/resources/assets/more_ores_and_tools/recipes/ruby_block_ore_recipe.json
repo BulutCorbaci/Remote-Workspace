@@ -1,0 +1,13 @@
+{
+  "group": "more_ores_and_tools",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "more_ores_and_tools:ruby_block"
+    }
+  ],
+  "result": {
+    "item": "more_ores_and_tools:ruby",
+    "count": 9
+  }
+}

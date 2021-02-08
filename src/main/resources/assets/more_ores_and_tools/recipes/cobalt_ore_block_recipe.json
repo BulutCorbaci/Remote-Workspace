@@ -1,0 +1,42 @@
+{
+  "group": "more_ores_and_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "more_ores_and_tools:cobalt_dust"
+    },
+    "1": {
+      "item": "more_ores_and_tools:cobalt_dust"
+    },
+    "2": {
+      "item": "more_ores_and_tools:cobalt_dust"
+    },
+    "3": {
+      "item": "more_ores_and_tools:cobalt_dust"
+    },
+    "4": {
+      "item": "more_ores_and_tools:cobalt_dust"
+    },
+    "5": {
+      "item": "more_ores_and_tools:cobalt_dust"
+    },
+    "6": {
+      "item": "more_ores_and_tools:cobalt_dust"
+    },
+    "7": {
+      "item": "more_ores_and_tools:cobalt_dust"
+    },
+    "8": {
+      "item": "more_ores_and_tools:cobalt_dust"
+    }
+  },
+  "result": {
+    "item": "more_ores_and_tools:cobalt_block",
+    "count": 1
+  }
+}

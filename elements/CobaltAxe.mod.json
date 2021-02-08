@@ -1,0 +1,30 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "cobalt_axe",
+    "customModelName": "Normal",
+    "name": "Cobalt Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:CobaltTools"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 5,
+    "efficiency": 10.0,
+    "attackSpeed": 1.0,
+    "enchantability": 34,
+    "damageVsEntity": 22.0,
+    "usageCount": 1852,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:CobaltDust"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

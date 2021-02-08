@@ -1,0 +1,30 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "greencopperore_axe",
+    "customModelName": "Normal",
+    "name": "Green Copper Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:GreenCopperTools"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 4,
+    "efficiency": 9.0,
+    "attackSpeed": 1.0,
+    "enchantability": 29,
+    "damageVsEntity": 19.0,
+    "usageCount": 1706,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:GreenCopperOreIngot"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

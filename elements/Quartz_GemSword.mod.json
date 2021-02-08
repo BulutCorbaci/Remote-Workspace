@@ -1,0 +1,30 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "quartz_gem_sword",
+    "customModelName": "Normal",
+    "name": "Quartz Gem Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:QuartzGemItems"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 3,
+    "efficiency": 7.0,
+    "attackSpeed": 1.0,
+    "enchantability": 18,
+    "damageVsEntity": 6.7,
+    "usageCount": 1669,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Quartz_Gem"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

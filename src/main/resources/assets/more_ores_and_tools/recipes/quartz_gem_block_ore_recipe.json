@@ -1,0 +1,13 @@
+{
+  "group": "more_ores_and_tools",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "more_ores_and_tools:quartz_gem_block"
+    }
+  ],
+  "result": {
+    "item": "more_ores_and_tools:quartz_gem",
+    "count": 9
+  }
+}

@@ -1,0 +1,944 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Quartz_Gem",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_gem"
+    },
+    {
+      "name": "Quartz_GemOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_gem_ore"
+    },
+    {
+      "name": "Quartz_GemBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_gem_block"
+    },
+    {
+      "name": "Quartz_GemOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_gem_ore_block_recipe"
+    },
+    {
+      "name": "Quartz_GemBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_gem_block_ore_recipe"
+    },
+    {
+      "name": "Quartz_GemOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_gem_ore_smelting"
+    },
+    {
+      "name": "Quartz_GemPickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_gem_pickaxe"
+    },
+    {
+      "name": "Quartz_GemAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_gem_axe"
+    },
+    {
+      "name": "Quartz_GemSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_gem_sword"
+    },
+    {
+      "name": "Quartz_GemShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_gem_shovel"
+    },
+    {
+      "name": "Quartz_GemHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_gem_hoe"
+    },
+    {
+      "name": "Quartz_GemPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_gem_pickaxe_recipe"
+    },
+    {
+      "name": "Quartz_GemAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_gem_axe_recipe"
+    },
+    {
+      "name": "Quartz_GemSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_gem_sword_recipe"
+    },
+    {
+      "name": "Quartz_GemShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_gem_shovel_recipe"
+    },
+    {
+      "name": "Quartz_GemHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_gem_hoe_recipe"
+    },
+    {
+      "name": "Quartz_GemArmor",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_gem_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Quartz_GemArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_gem_armor_helmet_recipe"
+    },
+    {
+      "name": "Quartz_GemArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_gem_armor_body_recipe"
+    },
+    {
+      "name": "Quartz_GemArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_gem_armor_leggings_recipe"
+    },
+    {
+      "name": "Quartz_GemArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_gem_armor_boots_recipe"
+    },
+    {
+      "name": "QuartzGemCraft",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_gem_craft"
+    },
+    {
+      "name": "QuartzGemItems",
+      "type": "tab",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_gem_items"
+    },
+    {
+      "name": "Ruby",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby"
+    },
+    {
+      "name": "RubyOre",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore"
+    },
+    {
+      "name": "RubyBlock",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_block"
+    },
+    {
+      "name": "RubyOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore_block_recipe"
+    },
+    {
+      "name": "RubyBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_block_ore_recipe"
+    },
+    {
+      "name": "RubyOreSmelting",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore_smelting"
+    },
+    {
+      "name": "RubyPickaxe",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_pickaxe"
+    },
+    {
+      "name": "RubyAxe",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_axe"
+    },
+    {
+      "name": "RubySword",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_sword"
+    },
+    {
+      "name": "RubyShovel",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_shovel"
+    },
+    {
+      "name": "RubyHoe",
+      "type": "tool",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_hoe"
+    },
+    {
+      "name": "RubyPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_pickaxe_recipe"
+    },
+    {
+      "name": "RubyAxeRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_axe_recipe"
+    },
+    {
+      "name": "RubySwordRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_sword_recipe"
+    },
+    {
+      "name": "RubyShovelRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_shovel_recipe"
+    },
+    {
+      "name": "RubyHoeRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_hoe_recipe"
+    },
+    {
+      "name": "RubyArmor",
+      "type": "armor",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "RubyArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_helmet_recipe"
+    },
+    {
+      "name": "RubyArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_body_recipe"
+    },
+    {
+      "name": "RubyArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_leggings_recipe"
+    },
+    {
+      "name": "RubyArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_boots_recipe"
+    },
+    {
+      "name": "RubyTools",
+      "type": "tab",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_tools"
+    },
+    {
+      "name": "GlowingOilBlock",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowing_oil_block"
+    },
+    {
+      "name": "GlowingOil",
+      "type": "fuel",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowing_oil"
+    },
+    {
+      "name": "GlowingOilBlockSmelted",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowing_oil_block_smelted"
+    },
+    {
+      "name": "Others",
+      "type": "tab",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "others"
+    },
+    {
+      "name": "GreenCopperOreIngot",
+      "type": "item",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_copper_ore_ingot"
+    },
+    {
+      "name": "GreenCopperOreOre",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_copper_ore_ore"
+    },
+    {
+      "name": "GreenCopperOreBlock",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_copper_ore_block"
+    },
+    {
+      "name": "GreenCopperOreOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_copper_ore_ore_block_recipe"
+    },
+    {
+      "name": "GreenCopperOreBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_copper_ore_block_ore_recipe"
+    },
+    {
+      "name": "GreenCopperOreOreSmelting",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_copper_ore_ore_smelting"
+    },
+    {
+      "name": "GreenCopperOrePickaxe",
+      "type": "tool",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_copper_ore_pickaxe"
+    },
+    {
+      "name": "GreenCopperOreAxe",
+      "type": "tool",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_copper_ore_axe"
+    },
+    {
+      "name": "GreenCopperOreSword",
+      "type": "tool",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_copper_ore_sword"
+    },
+    {
+      "name": "GreenCopperOreShovel",
+      "type": "tool",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_copper_ore_shovel"
+    },
+    {
+      "name": "GreenCopperOreHoe",
+      "type": "tool",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_copper_ore_hoe"
+    },
+    {
+      "name": "GreenCopperOrePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_copper_ore_pickaxe_recipe"
+    },
+    {
+      "name": "GreenCopperOreAxeRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_copper_ore_axe_recipe"
+    },
+    {
+      "name": "GreenCopperOreSwordRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_copper_ore_sword_recipe"
+    },
+    {
+      "name": "GreenCopperOreShovelRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_copper_ore_shovel_recipe"
+    },
+    {
+      "name": "GreenCopperOreHoeRecipe",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_copper_ore_hoe_recipe"
+    },
+    {
+      "name": "GreenCopperOreArmor",
+      "type": "armor",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_copper_ore_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "GreenCopperOreArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_copper_ore_armor_helmet_recipe"
+    },
+    {
+      "name": "GreenCopperOreArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_copper_ore_armor_body_recipe"
+    },
+    {
+      "name": "GreenCopperOreArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_copper_ore_armor_leggings_recipe"
+    },
+    {
+      "name": "GreenCopperOreArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_copper_ore_armor_boots_recipe"
+    },
+    {
+      "name": "CobaltDust",
+      "type": "item",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_dust"
+    },
+    {
+      "name": "CobaltOre",
+      "type": "block",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_ore"
+    },
+    {
+      "name": "CobaltBlock",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_block"
+    },
+    {
+      "name": "CobaltOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_ore_block_recipe"
+    },
+    {
+      "name": "CobaltBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_block_ore_recipe"
+    },
+    {
+      "name": "CobaltOreSmelting",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_ore_smelting"
+    },
+    {
+      "name": "CobaltPickaxe",
+      "type": "tool",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_pickaxe"
+    },
+    {
+      "name": "CobaltAxe",
+      "type": "tool",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_axe"
+    },
+    {
+      "name": "CobaltSword",
+      "type": "tool",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_sword"
+    },
+    {
+      "name": "CobaltShovel",
+      "type": "tool",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_shovel"
+    },
+    {
+      "name": "CobaltHoe",
+      "type": "tool",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_hoe"
+    },
+    {
+      "name": "CobaltPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_pickaxe_recipe"
+    },
+    {
+      "name": "CobaltAxeRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_axe_recipe"
+    },
+    {
+      "name": "CobaltSwordRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_sword_recipe"
+    },
+    {
+      "name": "CobaltShovelRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_shovel_recipe"
+    },
+    {
+      "name": "CobaltHoeRecipe",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_hoe_recipe"
+    },
+    {
+      "name": "CobaltArmor",
+      "type": "armor",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "CobaltArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_armor_helmet_recipe"
+    },
+    {
+      "name": "CobaltArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_armor_body_recipe"
+    },
+    {
+      "name": "CobaltArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_armor_leggings_recipe"
+    },
+    {
+      "name": "CobaltArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_armor_boots_recipe"
+    },
+    {
+      "name": "GreenCopperTools",
+      "type": "tab",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_copper_tools"
+    },
+    {
+      "name": "CobaltTools",
+      "type": "tab",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_tools"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.cobalt_armorbody.name": "Cobalt Chestplate",
+      "itemGroup.tabothers": "Others",
+      "item.quartz_gem_shovel.name": "Quartz Gem Shovel",
+      "item.green_copper_ore_pickaxe.name": "GreenCopperOre Pickaxe",
+      "tile.green_copper_ore_ore.name": "Green Copper Ore",
+      "item.quartz_gem_axe.name": "Quartz Gem Axe",
+      "item.ruby_sword.name": "Ruby Sword",
+      "tile.ruby_block.name": "Block of Ruby",
+      "item.cobalt_hoe.name": "Cobalt Hoe",
+      "itemGroup.tabgreen_copper_tools": "Green Copper Tools",
+      "tile.quartz_gem_ore.name": "Quartz Gem Ore",
+      "item.green_copper_ore_hoe.name": "Green Copper Hoe",
+      "item.green_copper_ore_axe.name": "Green Copper Axe",
+      "item.cobalt_armorhelmet.name": "Cobalt Helmet",
+      "item.quartz_gem_sword.name": "Quartz Gem Sword",
+      "item.ruby_axe.name": "Ruby Axe",
+      "item.quartz_gem_hoe.name": "Quartz Gem Hoe",
+      "tile.ruby_ore.name": "Ruby Ore",
+      "item.green_copper_ore_ingot.name": "Green Copper Ingot",
+      "item.cobalt_sword.name": "Cobalt Sword",
+      "item.green_copper_ore_armorboots.name": "Green Copper Boots",
+      "item.ruby.name": "Ruby",
+      "itemGroup.tabcobalt_tools": "Cobalt Tools",
+      "item.ruby_armorbody.name": "Ruby Chestplate",
+      "item.quartz_gem_armorbody.name": "Quartz Gem Chestplate",
+      "item.quartz_gem_armorlegs.name": "Quartz Gem Leggings",
+      "item.ruby_armorlegs.name": "Ruby Leggings",
+      "item.quartz_gem_pickaxe.name": "Quartz Gem Pickaxe",
+      "item.quartz_gem.name": "Quartz Gem",
+      "itemGroup.tabruby_tools": "Ruby Tools",
+      "item.ruby_armorboots.name": "Ruby Boots",
+      "item.ruby_hoe.name": "Ruby Hoe",
+      "item.cobalt_armorboots.name": "Cobalt Boots",
+      "item.ruby_pickaxe.name": "Ruby Pickaxe",
+      "item.ruby_shovel.name": "Ruby Shovel",
+      "item.green_copper_ore_armorlegs.name": "Green Copper Leggings",
+      "item.quartz_gem_armorboots.name": "Quartz Gem Boots",
+      "tile.glowing_oil_block_smelted.name": "Glowing Oil Block",
+      "item.green_copper_ore_shovel.name": "Green Copper Shovel",
+      "item.green_copper_ore_armorbody.name": "Green Copper Chestplate",
+      "item.cobalt_dust.name": "Cobalt",
+      "item.cobalt_pickaxe.name": "Cobalt Pickaxe",
+      "item.green_copper_ore_sword.name": "Green Copper Sword",
+      "tile.cobalt_block.name": "Block of Cobalt",
+      "item.cobalt_axe.name": "Cobalt Axe",
+      "item.cobalt_armorlegs.name": "Cobalt Leggings",
+      "item.quartz_gem_armorhelmet.name": "Quartz Gem Helmet",
+      "item.cobalt_shovel.name": "Cobalt Shovel",
+      "item.ruby_armorhelmet.name": "Ruby Helmet",
+      "itemGroup.tabquartz_gem_items": "Quartz Gem Items",
+      "tile.cobalt_ore.name": "Cobalt Ore",
+      "tile.quartz_gem_block.name": "Block of Quartz Gem",
+      "tile.glowing_oil_block.name": "Glowing Oil Block Ore",
+      "tile.green_copper_ore_block.name": "Block of Green Copper",
+      "item.green_copper_ore_armorhelmet.name": "Green Copper Helmet"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "more_ores_and_tools",
+    "modName": "More Ores And Tools",
+    "version": "1.0.0",
+    "author": "pc, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "modElementsPackage": "net.mcreator.moreoresandtools",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
