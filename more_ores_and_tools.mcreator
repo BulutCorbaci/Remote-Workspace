@@ -1,5 +1,7 @@
 {
-  "id_map": {},
+  "id_map": {
+    "ENTITY": 2
+  },
   "mod_elements": [
     {
       "name": "Quartz_Gem",
@@ -1065,6 +1067,36 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "colorium"
+    },
+    {
+      "name": "ColoriumMonster",
+      "type": "mob",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 1,
+        "1": 2
+      },
+      "registry_name": "colorium_monster"
+    },
+    {
+      "name": "ColoriumPlant",
+      "type": "plant",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colorium_plant"
+    },
+    {
+      "name": "ColoriumPlantBurning",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colorium_plant_burning"
     }
   ],
   "variable_elements": [],
@@ -1076,8 +1108,8 @@
       "itemGroup.tabothers": "Others",
       "item.quartz_gem_shovel.name": "Quartz Gem Shovel",
       "item.green_copper_ore_pickaxe.name": "GreenCopperOre Pickaxe",
-      "tile.green_copper_ore_ore.name": "Green Copper Ore",
       "item.quartz_gem_axe.name": "Quartz Gem Axe",
+      "tile.green_copper_ore_ore.name": "Green Copper Ore",
       "item.ruby_sword.name": "Ruby Sword",
       "tile.ruby_block.name": "Block of Ruby",
       "item.cobalt_hoe.name": "Cobalt Hoe",
@@ -1093,11 +1125,13 @@
       "itemGroup.tabcolorium": "Colorium",
       "tile.ruby_ore.name": "Ruby Ore",
       "item.green_copper_ore_ingot.name": "Green Copper Ingot",
+      "entity.colorium_monster.name": "Colorium Fish",
       "item.cobalt_sword.name": "Cobalt Sword",
       "item.colorium_gem_armorboots.name": "Colorium Boots",
       "item.green_copper_ore_armorboots.name": "Green Copper Boots",
       "item.ruby.name": "Ruby",
       "item.colorium_gem_shovel.name": "Colorium Shovel",
+      "tile.colorium_plant.name": "Colorium Plant",
       "itemGroup.tabcobalt_tools": "Cobalt Tools",
       "item.ruby_armorbody.name": "Ruby Chestplate",
       "item.colorium_gem_sword.name": "Colorium Sword",

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "more_ores_and_tools:blocks/flower",
+    "particle": "more_ores_and_tools:blocks/flower"
+  }
+}
