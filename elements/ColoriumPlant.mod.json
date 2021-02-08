@@ -44,7 +44,7 @@
     "aiPathNodeType": "DEFAULT",
     "flammability": 100,
     "fireSpreadSpeed": 60,
-    "frequencyOnChunks": 5,
+    "frequencyOnChunks": 1,
     "spawnWorldTypes": [
       "Surface"
     ],

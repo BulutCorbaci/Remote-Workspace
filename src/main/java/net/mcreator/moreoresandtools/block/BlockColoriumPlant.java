@@ -62,7 +62,7 @@ public class BlockColoriumPlant extends ElementsMoreOresAndToolsMod.ModElement {
 			dimensionCriteria = true;
 		if (!dimensionCriteria)
 			return;
-		for (int i = 0; i < 5; i++) {
+		for (int i = 0; i < 1; i++) {
 			int l6 = chunkX + random.nextInt(16) + 8;
 			int i11 = random.nextInt(128);
 			int l14 = chunkZ + random.nextInt(16) + 8;
