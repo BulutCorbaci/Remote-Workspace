@@ -1491,15 +1491,6 @@
       "registry_name": "the_shiny_thing"
     },
     {
-      "name": "Disc14",
-      "type": "musicdisc",
-      "sortid": 162,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "disc_14"
-    },
-    {
       "name": "SmallBoneFoodEaten",
       "type": "procedure",
       "sortid": 163,
@@ -1527,16 +1518,7 @@
     }
   ],
   "variable_elements": [],
-  "sound_elements": [
-    {
-      "name": "ambient",
-      "files": [
-        "spooky_ambience"
-      ],
-      "category": "record",
-      "subtitle": "Ambient Disc Plays?"
-    }
-  ],
+  "sound_elements": [],
   "language_map": {
     "en_us": {
       "item.cobalt_armorbody.name": "Cobalt Chestplate",
@@ -1553,8 +1535,8 @@
       "tile.lritz_wood_wood.name": "LritzWood Wood",
       "item.quartz_gem_hoe.name": "Quartz Gem Hoe",
       "itemGroup.tabcolorium": "Colorium",
-      "entity.colorium_monster.name": "Colorium Fish",
       "item.bronze_hoe.name": "Bronze Hoe",
+      "entity.colorium_monster.name": "Colorium Fish",
       "item.colorium_gem_armorboots.name": "Colorium Boots",
       "item.colorium_gem_shovel.name": "Colorium Shovel",
       "itemGroup.tabcobalt_tools": "Cobalt Tools",
@@ -1622,12 +1604,10 @@
       "item.ruby_armorlegs.name": "Ruby Leggings",
       "item.quartz_gem_pickaxe.name": "Quartz Gem Pickaxe",
       "item.quartz_gem.name": "Quartz Gem",
-      "item.disc_14.name": "Disc 1 4",
       "itemGroup.tabruby_tools": "Ruby Tools",
       "item.ruby_pickaxe.name": "Ruby Pickaxe",
       "item.bronze_axe.name": "Bronze Axe",
       "item.quartz_gem_armorboots.name": "Quartz Gem Boots",
-      "item.record.disc_14.desc": "Bultz - Ambient",
       "effect.kritz_potion": "Kritz Potion",
       "item.bronze_armorlegs.name": "Bronze Leggings",
       "item.green_copper_ore_shovel.name": "Green Copper Shovel",
