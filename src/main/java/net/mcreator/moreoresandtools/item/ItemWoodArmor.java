@@ -12,9 +12,9 @@ import net.minecraft.util.ResourceLocation;
 import net.minecraft.item.ItemArmor;
 import net.minecraft.item.Item;
 import net.minecraft.inventory.EntityEquipmentSlot;
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 
+import net.mcreator.moreoresandtools.creativetab.TabStoneAndWoodArmor;
 import net.mcreator.moreoresandtools.ElementsMoreOresAndToolsMod;
 
 @ElementsMoreOresAndToolsMod.ModElement.Tag
@@ -36,13 +36,13 @@ public class ItemWoodArmor extends ElementsMoreOresAndToolsMod.ModElement {
 		ItemArmor.ArmorMaterial enuma = EnumHelper.addArmorMaterial("WOOD_ARMOR", "more_ores_and_tools:wood", 5, new int[]{1, 2, 2, 1}, 3,
 				(net.minecraft.util.SoundEvent) net.minecraft.util.SoundEvent.REGISTRY.getObject(new ResourceLocation("")), 0f);
 		elements.items.add(() -> new ItemArmor(enuma, 0, EntityEquipmentSlot.HEAD).setUnlocalizedName("wood_armorhelmet")
-				.setRegistryName("wood_armorhelmet").setCreativeTab(CreativeTabs.COMBAT));
+				.setRegistryName("wood_armorhelmet").setCreativeTab(TabStoneAndWoodArmor.tab));
 		elements.items.add(() -> new ItemArmor(enuma, 0, EntityEquipmentSlot.CHEST).setUnlocalizedName("wood_armorbody")
-				.setRegistryName("wood_armorbody").setCreativeTab(CreativeTabs.COMBAT));
+				.setRegistryName("wood_armorbody").setCreativeTab(TabStoneAndWoodArmor.tab));
 		elements.items.add(() -> new ItemArmor(enuma, 0, EntityEquipmentSlot.LEGS).setUnlocalizedName("wood_armorlegs")
-				.setRegistryName("wood_armorlegs").setCreativeTab(CreativeTabs.COMBAT));
+				.setRegistryName("wood_armorlegs").setCreativeTab(TabStoneAndWoodArmor.tab));
 		elements.items.add(() -> new ItemArmor(enuma, 0, EntityEquipmentSlot.FEET).setUnlocalizedName("wood_armorboots")
-				.setRegistryName("wood_armorboots").setCreativeTab(CreativeTabs.COMBAT));
+				.setRegistryName("wood_armorboots").setCreativeTab(TabStoneAndWoodArmor.tab));
 	}
 
 	@SideOnly(Side.CLIENT)

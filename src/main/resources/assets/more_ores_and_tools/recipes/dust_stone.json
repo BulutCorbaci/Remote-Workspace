@@ -1,0 +1,19 @@
+{
+  "group": "more_ores_and_tools",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "minecraft:cobblestone"
+    }
+  ],
+  "result": {
+    "item": "more_ores_and_tools:stone_dust",
+    "count": 9
+  }
+}

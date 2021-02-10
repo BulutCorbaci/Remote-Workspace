@@ -18,7 +18,7 @@ import net.minecraft.block.material.Material;
 import net.minecraft.block.SoundType;
 import net.minecraft.block.Block;
 
-import net.mcreator.moreoresandtools.creativetab.TabQuartzGemItems;
+import net.mcreator.moreoresandtools.creativetab.TabLritzTools;
 import net.mcreator.moreoresandtools.ElementsMoreOresAndToolsMod;
 
 @ElementsMoreOresAndToolsMod.ModElement.Tag
@@ -51,7 +51,7 @@ public class BlockLritzWoodLog extends ElementsMoreOresAndToolsMod.ModElement {
 			setResistance(3.4822022531844965F);
 			setLightLevel(0F);
 			setLightOpacity(255);
-			setCreativeTab(TabQuartzGemItems.tab);
+			setCreativeTab(TabLritzTools.tab);
 		}
 
 		@Override

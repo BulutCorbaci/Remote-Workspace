@@ -1,0 +1,9 @@
+{
+  "parent": "more_ores_and_tools:custom/lritzfruit",
+  "textures": {
+    "all": "more_ores_and_tools:blocks/lritzsap",
+    "particle": "more_ores_and_tools:blocks/lritzsap",
+    "lritzsap": "more_ores_and_tools:blocks/lritzsap",
+    "lritzfruit": "more_ores_and_tools:blocks/lritzfruit"
+  }
+}

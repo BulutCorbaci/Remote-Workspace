@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "lritzsap": "lritzsap",
+        "lritzfruit": "lritzfruit"
+      },
+      "name": "default"
+    }
+  }
+}

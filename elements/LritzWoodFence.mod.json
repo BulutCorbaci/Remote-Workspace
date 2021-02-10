@@ -25,14 +25,14 @@
     "Mx": 1.0,
     "My": 1.0,
     "Mz": 1.0,
-    "name": "LritzWood Fence",
+    "name": "Lritz Fence",
     "specialInfo": [],
     "hardness": 4.0,
     "resistance": 6.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:QuartzGemItems"
+      "value": "CUSTOM:LritzTools"
     },
     "destroyTool": "Not specified",
     "customDrop": {

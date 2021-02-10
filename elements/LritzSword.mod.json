@@ -1,0 +1,30 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "lritz_sword",
+    "customModelName": "Normal",
+    "name": "Lritz Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:LritzTools"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 6,
+    "efficiency": 11.0,
+    "attackSpeed": 1.0,
+    "enchantability": 41,
+    "damageVsEntity": 17.0,
+    "usageCount": 1110,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:LritzWoodPlanks"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

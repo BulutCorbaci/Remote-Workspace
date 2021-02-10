@@ -24,7 +24,7 @@ import net.minecraft.block.BlockPlanks;
 import net.minecraft.block.BlockLeaves;
 import net.minecraft.block.Block;
 
-import net.mcreator.moreoresandtools.creativetab.TabQuartzGemItems;
+import net.mcreator.moreoresandtools.creativetab.TabLritzTools;
 import net.mcreator.moreoresandtools.ElementsMoreOresAndToolsMod;
 
 @ElementsMoreOresAndToolsMod.ModElement.Tag
@@ -57,7 +57,7 @@ public class BlockLritzWoodLeaves extends ElementsMoreOresAndToolsMod.ModElement
 			setResistance(0.4F);
 			setLightLevel(0F);
 			setLightOpacity(255);
-			setCreativeTab(TabQuartzGemItems.tab);
+			setCreativeTab(TabLritzTools.tab);
 			this.setDefaultState(this.blockState.getBaseState().withProperty(CHECK_DECAY, true).withProperty(DECAYABLE, true));
 		}
 

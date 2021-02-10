@@ -8,7 +8,7 @@
     "name": "Stone",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:StoneAndWoodArmor"
     },
     "stackSize": 64,
     "enchantability": 0,

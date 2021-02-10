@@ -23,7 +23,7 @@
       "value": "CUSTOM:LritzWoodLeaves"
     },
     "treeFruits": {
-      "value": "Blocks.AIR"
+      "value": "CUSTOM:LritzFruit"
     },
     "treesPerChunk": 3,
     "grassPerChunk": 4,

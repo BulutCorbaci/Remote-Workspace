@@ -18,7 +18,7 @@ import net.minecraft.block.SoundType;
 import net.minecraft.block.BlockFence;
 import net.minecraft.block.Block;
 
-import net.mcreator.moreoresandtools.creativetab.TabQuartzGemItems;
+import net.mcreator.moreoresandtools.creativetab.TabLritzTools;
 import net.mcreator.moreoresandtools.ElementsMoreOresAndToolsMod;
 
 @ElementsMoreOresAndToolsMod.ModElement.Tag
@@ -50,7 +50,7 @@ public class BlockLritzWoodFence extends ElementsMoreOresAndToolsMod.ModElement 
 			setResistance(6F);
 			setLightLevel(0F);
 			setLightOpacity(255);
-			setCreativeTab(TabQuartzGemItems.tab);
+			setCreativeTab(TabLritzTools.tab);
 		}
 
 		@Override

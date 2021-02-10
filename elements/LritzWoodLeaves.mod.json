@@ -25,14 +25,14 @@
     "Mx": 1.0,
     "My": 1.0,
     "Mz": 1.0,
-    "name": "LritzWood Leaves",
+    "name": "Lritz Wood Leaves",
     "specialInfo": [],
     "hardness": 0.4,
     "resistance": 0.4,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:QuartzGemItems"
+      "value": "CUSTOM:LritzTools"
     },
     "destroyTool": "Not specified",
     "customDrop": {

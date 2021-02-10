@@ -24,14 +24,14 @@
     "Mx": 1.0,
     "My": 1.0,
     "Mz": 1.0,
-    "name": "LritzWood Log",
+    "name": "Lritz Log",
     "specialInfo": [],
     "hardness": 4.0,
     "resistance": 3.4822022531844965,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:QuartzGemItems"
+      "value": "CUSTOM:LritzTools"
     },
     "destroyTool": "axe",
     "customDrop": {

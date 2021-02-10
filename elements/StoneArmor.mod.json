@@ -11,7 +11,7 @@
     "enableBoots": true,
     "textureBoots": "stone_boots",
     "creativeTab": {
-      "value": "COMBAT"
+      "value": "CUSTOM:StoneAndWoodArmor"
     },
     "armorTextureFile": "stone",
     "helmetName": "Stone Helmet",

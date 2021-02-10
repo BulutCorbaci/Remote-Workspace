@@ -25,7 +25,7 @@ import net.minecraft.block.SoundType;
 import net.minecraft.block.BlockSlab;
 import net.minecraft.block.Block;
 
-import net.mcreator.moreoresandtools.creativetab.TabQuartzGemItems;
+import net.mcreator.moreoresandtools.creativetab.TabLritzTools;
 import net.mcreator.moreoresandtools.ElementsMoreOresAndToolsMod;
 
 import java.util.Random;
@@ -62,7 +62,7 @@ public class BlockLritzWoodSlab extends ElementsMoreOresAndToolsMod.ModElement {
 			setResistance(6F);
 			setLightLevel(0F);
 			setLightOpacity(255);
-			setCreativeTab(TabQuartzGemItems.tab);
+			setCreativeTab(TabLritzTools.tab);
 			IBlockState state = this.blockState.getBaseState().withProperty(VARIANT, BlockCustom.Variant.DEFAULT);
 			if (!this.isDouble())
 				state = state.withProperty(BlockSlab.HALF, EnumBlockHalf.BOTTOM);

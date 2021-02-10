@@ -17,6 +17,7 @@ import net.minecraft.block.Block;
 
 import net.mcreator.moreoresandtools.block.BlockLritzWoodLog;
 import net.mcreator.moreoresandtools.block.BlockLritzWoodLeaves;
+import net.mcreator.moreoresandtools.block.BlockLritzFruit;
 import net.mcreator.moreoresandtools.ElementsMoreOresAndToolsMod;
 
 import java.util.Random;
@@ -138,7 +139,7 @@ public class BiomeLritzForest extends ElementsMoreOresAndToolsMod.ModElement {
 										EnumFacing enumfacing1 = enumfacing.getOpposite();
 										this.setBlockAndNotifyAdequately(world,
 												position.add(enumfacing1.getFrontOffsetX(), height - 5 + hlevel, enumfacing1.getFrontOffsetZ()),
-												Blocks.AIR.getDefaultState());
+												BlockLritzFruit.block.getDefaultState());
 									}
 								}
 							}

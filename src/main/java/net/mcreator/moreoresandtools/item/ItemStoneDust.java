@@ -9,10 +9,10 @@ import net.minecraftforge.client.event.ModelRegistryEvent;
 
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Item;
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.block.state.IBlockState;
 
+import net.mcreator.moreoresandtools.creativetab.TabStoneAndWoodArmor;
 import net.mcreator.moreoresandtools.ElementsMoreOresAndToolsMod;
 
 @ElementsMoreOresAndToolsMod.ModElement.Tag
@@ -39,7 +39,7 @@ public class ItemStoneDust extends ElementsMoreOresAndToolsMod.ModElement {
 			maxStackSize = 64;
 			setUnlocalizedName("stone_dust");
 			setRegistryName("stone_dust");
-			setCreativeTab(CreativeTabs.MISC);
+			setCreativeTab(TabStoneAndWoodArmor.tab);
 		}
 
 		@Override
