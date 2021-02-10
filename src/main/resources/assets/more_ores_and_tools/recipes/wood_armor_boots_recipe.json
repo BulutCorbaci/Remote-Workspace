@@ -1,0 +1,30 @@
+{
+  "group": "more_ores_and_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "2": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "3": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "5": {
+      "item": "minecraft:log",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "more_ores_and_tools:wood_armorboots",
+    "count": 1
+  }
+}

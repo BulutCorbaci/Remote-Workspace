@@ -1,0 +1,36 @@
+{
+  "group": "more_ores_and_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "more_ores_and_tools:stone_dust"
+    },
+    "1": {
+      "item": "more_ores_and_tools:stone_dust"
+    },
+    "2": {
+      "item": "more_ores_and_tools:stone_dust"
+    },
+    "3": {
+      "item": "more_ores_and_tools:stone_dust"
+    },
+    "5": {
+      "item": "more_ores_and_tools:stone_dust"
+    },
+    "6": {
+      "item": "more_ores_and_tools:stone_dust"
+    },
+    "8": {
+      "item": "more_ores_and_tools:stone_dust"
+    }
+  },
+  "result": {
+    "item": "more_ores_and_tools:stone_armorlegs",
+    "count": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "group": "more_ores_and_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "1": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "2": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "3": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "5": {
+      "item": "minecraft:log",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "more_ores_and_tools:wood_armorhelmet",
+    "count": 1
+  }
+}

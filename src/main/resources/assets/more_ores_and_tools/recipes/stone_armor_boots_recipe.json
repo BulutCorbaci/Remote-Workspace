@@ -1,0 +1,26 @@
+{
+  "group": "more_ores_and_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "more_ores_and_tools:stone_dust"
+    },
+    "2": {
+      "item": "more_ores_and_tools:stone_dust"
+    },
+    "3": {
+      "item": "more_ores_and_tools:stone_dust"
+    },
+    "5": {
+      "item": "more_ores_and_tools:stone_dust"
+    }
+  },
+  "result": {
+    "item": "more_ores_and_tools:stone_armorboots",
+    "count": 1
+  }
+}
